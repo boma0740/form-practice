@@ -187,11 +187,11 @@ input, select, button {
 
 .btn_submit {
 	padding: 13px;
-	background-color: #0170df;
+	background-color: #0170bf;
 	color: #fff;
 }
 
-.btn__submit:active {
+.btn_submit:active {
 	background: #fff;
 	color: #0170bf;
 	border: 1px solid #d9d9d9;
@@ -203,6 +203,6 @@ input, select, button {
 }
 
 .link_color {
-	color: #0170df;
+	color: #0170bf;
 	text-decoration: none;
 }
